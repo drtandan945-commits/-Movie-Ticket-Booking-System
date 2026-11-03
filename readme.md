@@ -14,13 +14,13 @@ A command-line movie ticket booking program written in Python. It lets you book 
 Open a terminal in this folder and run:
 
 ```powershell
-python Booking.py
+python code.py
 ```
 
 If your system uses the Python launcher, you can instead run:
 
 ```powershell
-py Booking.py
+py code.py
 ```
 
 ## How to use
